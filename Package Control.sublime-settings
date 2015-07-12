@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ColorPicker",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"JSHint Gutter",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
