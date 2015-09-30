@@ -4,9 +4,9 @@ sublime-text-3配置同步
 1. 打开sublime text
 2. 安装package control：参考https://packagecontrol.io/installation
 3. 退出sublime text
-4. 进入packages/User目录
-5. git clone
-6. 重新打开sublime text
+4. 进入packages目录下删除User目录
+5. 在该目录下git clone
+6. 重新打开sublime text，ctrl＋｀查看插件安装状态，如果有错误则退出再重新打开，可能需要重复多次
 
 ------------------------------------
 插件列表：
