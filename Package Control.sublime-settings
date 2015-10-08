@@ -1,11 +1,14 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Codecs33",
 		"ColorPicker",
+		"ConvertToUTF8",
 		"CSScomb",
 		"DocBlockr",
 		"Emmet",
