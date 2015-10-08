@@ -19,3 +19,5 @@ sublime-text-3配置同步
 + *JSHint Gutter* jshint支持插件
 + *ColorPicker* 调出颜色选择器
 + *Markdown Preview*  markdown文件预览
++ *ConvertToUTF8*  支持gbk、日文等编码
++ *Codecs33*  ConvertToUTF8支持插件
