@@ -14,7 +14,8 @@
 		"Emmet",
 		"FileDiffs",
 		"JSHint Gutter",
-		"Markdown Preview",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"SideBarEnhancements"
 	]

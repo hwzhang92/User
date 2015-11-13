@@ -18,6 +18,7 @@ sublime-text-3配置同步
 + *CSScomb* 调整css顺序
 + *JSHint Gutter* jshint支持插件
 + *ColorPicker* 调出颜色选择器
-+ *Markdown Preview*  markdown文件预览
++ *MarkdownEditing* markdown编辑语法高亮
++ *OmniMarkupPreviewer* 预览markdown 编辑的效果，同样支持渲染代码高亮的样式
 + *ConvertToUTF8*  支持gbk、日文等编码
 + *Codecs33*  ConvertToUTF8支持插件
