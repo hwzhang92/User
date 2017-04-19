@@ -6,10 +6,10 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Bootstrap 3 Snippets",
 		"Codecs33",
 		"ColorPicker",
 		"ConvertToUTF8",
-		"CSScomb",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
@@ -17,6 +17,7 @@
 		"MarkdownEditing",
 		"OmniMarkupPreviewer",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"Vue Syntax Highlight"
 	]
 }

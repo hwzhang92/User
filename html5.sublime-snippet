@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>${1:Title Page}</title>
+	</head>
+	<body>
+		<h1 class="text-center">Hello World</h1>
+	</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- 	<scope>source.html</scope> -->
+</snippet>

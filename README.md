@@ -14,7 +14,6 @@ sublime-text-3配置同步
 + *DocBlockr*  自动生成区块注释
 + *Emmet*  这个就不用介绍了
 + *FileDiffs*  文件对比
-+ *Side Bar* 侧边栏增强插件
 + *CSScomb* 调整css顺序
 + *JSHint Gutter* jshint支持插件
 + *ColorPicker* 调出颜色选择器
@@ -22,3 +21,6 @@ sublime-text-3配置同步
 + *OmniMarkupPreviewer* 预览markdown 编辑的效果，同样支持渲染代码高亮的样式
 + *ConvertToUTF8*  支持gbk、日文等编码
 + *Codecs33*  ConvertToUTF8支持插件
++ *SideBarEnhancements* 侧边栏增强工具
++ *Twitter Recess* CSS代码整理工具
++ *Vue Syntax Highlight* vue语法高亮工具
